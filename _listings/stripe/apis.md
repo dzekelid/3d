@@ -9,8 +9,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/254-stripe
 x-kinRank: "10"
 x-alexaRank: "1914"
 tags: 3D
-created: "2018-08-22"
-modified: "2018-08-22"
+created: "2018-08-24"
+modified: "2018-08-24"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/3d/master/_listings/stripe/apis.md
 specificationVersion: "0.14"
 apis:
@@ -22,7 +22,7 @@ apis:
   baseURL: https://api.stripe.com/v1/
   tags: Billing, Finance, Payments, Payments, Stripe Stack, Imports, Change Log Example,
     Stack Network, Stack, SaaS, Invoices, Payments, Relative Data, Service API, Relative
-    StreamRank, StreamRank
+    StreamRank, Streams
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/3d/master/_listings/stripe/3d-secure-post-openapi.md
@@ -34,7 +34,7 @@ apis:
   baseURL: https://api.stripe.com/v1/
   tags: Billing, Finance, Payments, Payments, Stripe Stack, Imports, Change Log Example,
     Stack Network, Stack, SaaS, Invoices, Payments, Relative Data, Service API, Relative
-    StreamRank, StreamRank
+    StreamRank, Streams
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/3d/master/_listings/stripe/3d-secure-post-openapi.md
